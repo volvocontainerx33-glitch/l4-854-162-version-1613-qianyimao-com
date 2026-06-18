@@ -1,0 +1,48 @@
+{
+  "site": "热门日韩电影-热门电影片库-高清电影在线点播",
+  "logo": "日韩电影片库",
+  "movie_count": 2000,
+  "categories": [
+    {
+      "slug": "rihan-hot",
+      "name": "日韩热映"
+    },
+    {
+      "slug": "hot-library",
+      "name": "热门片库"
+    },
+    {
+      "slug": "crime-suspense",
+      "name": "悬疑犯罪"
+    },
+    {
+      "slug": "romance-drama",
+      "name": "爱情剧情"
+    },
+    {
+      "slug": "action-scifi",
+      "name": "动作科幻"
+    },
+    {
+      "slug": "comedy-family",
+      "name": "喜剧家庭"
+    },
+    {
+      "slug": "horror-thriller",
+      "name": "恐怖惊悚"
+    },
+    {
+      "slug": "animation-series",
+      "name": "动画剧集"
+    },
+    {
+      "slug": "classic-library",
+      "name": "经典片单"
+    },
+    {
+      "slug": "new-releases",
+      "name": "年度新片"
+    }
+  ],
+  "generated_on": "2026-05-27"
+}
